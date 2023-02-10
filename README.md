@@ -5,7 +5,7 @@
 ## Quick Start 
 clone the repo
 ```
-    git clone https://github.com/tauseedzaman/Laravel-libraray-management-system
+    git clone https://github.com/nikitasemenchenko6/Laravel-libraray-management-system
 ```
 
 change current directory
@@ -58,9 +58,3 @@ password: password
 <img src="Screenshots/lms (11).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (12).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (13).png" width="100%" /><br /> <br />
-
-Watch demo at tauseedzaman youtube channel https://youtube.com/channel/UCnJYN9jTfEnumvJUw4rhh9A
-
-```
-Make sure to leave a start ✨✨
-```
